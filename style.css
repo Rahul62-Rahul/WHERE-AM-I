@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 2rem;
+  background-color: #f5f5f5;
+}
+
+#location-box {
+  border: 2px dashed #4CAF50;
+  padding: 1rem;
+  margin: 1rem auto;
+  display: inline-block;
+  background: #fff;
+}
